@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+backend/generated_mcp_server.py
+node_modules/
+.next/
+out/
+build/
+.env
+.env.local
+.env.*.local
+.DS_Store
+Thumbs.db
